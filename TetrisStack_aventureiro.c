@@ -1,6 +1,6 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <time.h>
+#include <stdio.h>   // Para printf e scanf
+#include <stdlib.h>  // Para rand e srand
+#include <time.h>    // Para time
 
 
 //1. Estruturas de dados
